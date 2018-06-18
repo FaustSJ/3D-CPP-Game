@@ -1,0 +1,30 @@
+15 15
+Examples/Rockwall
+
+Objects
+k jaiqua.mesh 7.7 0.0 1.0
+d uv_sphere.mesh 5.5 0.0 0.04
+s tudorhouse.mesh 27.0 0.0 0.008
+
+Characters
+b Barrel.mesh 3.5 1
+
+Enemies
+t sinbad.mesh 5.2 1
+
+World
+wwwwwwwwwwwwwww
+wooooowooooowow
+wowooowooooowow
+wowowooowwoooow
+wooowooowooooow
+wwoowoowwooooww
+woooooowbooooow
+wowwoowwoowwoow
+wowooowooooooow
+woooowwooowwoow
+wowooooowowooow
+wowwwooowooooow
+woowooowwoowoow
+woooooooooowoow
+wwwwwwwwwwwwwww
